@@ -17,12 +17,26 @@ body {
     color: whitesmoke;
     margin: 0;
  }
+
+  h2{
+    margin-top: 0;
+ }
  
  h3{
     font-size: 20px;
     color: #d0aaff;
     margin: 0px;
  }
+
+  a {
+    color: #ef5839;
+    text-decoration: dotted underline;
+}
+a:active,
+a:hover{
+   color: #d4b44c;
+   text-decoration: dotted underline;
+}
  
  section{
     padding: 45px 0;
@@ -31,3 +45,4 @@ body {
  #sneakers {
     width: 100%;
  }
+
