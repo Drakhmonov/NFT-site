@@ -38,6 +38,11 @@ a:hover{
    text-decoration: dotted underline;
 }
  
+.container{
+    width: 620px;
+    margin: 0 auto;
+}
+
  section{
     padding: 45px 0;
  }
