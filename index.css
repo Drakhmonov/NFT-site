@@ -7,10 +7,6 @@ body {
    margin: 0;
 }
 
- header {
-    background-color: #5f29a3;
-    padding: 45px 0;
- }
  
  h1{
     font-size: 36px;
@@ -43,6 +39,19 @@ a:hover{
     margin: 0 auto;
 }
 
+
+
+.section2{
+    background-color:#5f29a3;
+    color: whitesmoke;
+    width: 100%;
+}
+
+ header {
+    background-color: #5f29a3;
+    padding: 45px 0;
+ }
+
  section{
     padding: 45px 0;
  }
@@ -51,3 +60,12 @@ a:hover{
     width: 100%;
  }
 
+.img1, .img2{
+    width: 300px;
+    border-radius: 4.6px;
+}
+
+.img-container {
+    display: flex;
+    justify-content: space-around;
+}
